@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Animation from "./Animation";
 
 export default function Hero() {
@@ -15,9 +16,9 @@ export default function Hero() {
           있는 신입 프론트엔드 개발자 남우현입니다.
         </p>
         <div className="flex justify-center">
-          <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Go to projects
-          </button>
+          <Link href="/projects">
+            <button className="btn-project">Go to projects</button>
+          </Link>
         </div>
       </div>
       <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
