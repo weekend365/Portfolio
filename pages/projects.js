@@ -11,7 +11,7 @@ export default function Projects({ projects }) {
       <Layout>
         <div className="flex flex-col items-center justify-center min-h-screen mb-10 px-6">
           <Head>
-            <title>Woohyun's Portfolio</title>
+            <title>Woohyuns Portfolio</title>
           </Head>
           <h1
             className="text-4xl font-bold sm:text-6xl
