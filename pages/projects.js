@@ -1,5 +1,5 @@
-import Layout from "@/components/layout";
-import { DATABASE_ID, TOKEN } from "@/config";
+import Layout from "../components/Layout";
+import { DATABASE_ID, TOKEN } from "../config";
 import Head from "next/head";
 import ProjectItem from "../components/projects/project-item";
 
