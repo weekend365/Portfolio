@@ -12,9 +12,9 @@ export default function Footer() {
             <span className="ml-3 text-xl">Woohyuns Portfolio</span>
           </Link>
           <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-            © 2023 Woohyun —
+            GitHub -
             <a
-              href="https://www.instagram.com/_weekend365/"
+              href="https://github.com/weekend365"
               className="text-gray-600 ml-1"
               rel="noopener noreferrer"
               target="_blank"
