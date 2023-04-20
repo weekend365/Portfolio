@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Animation from "./animation";
+import Animation from "./Animation";
 
 export default function Hero() {
   return (
@@ -17,10 +17,10 @@ export default function Hero() {
           LottieFiles, Notion Api, TailwindCSS를 활용하여 만들었습니다. 근래에는
           OpenAI API를 활용하여 사용자의 키워드에 맞춰 시를 생성해 주고 이미지를
           가져오는 개인 프로젝트를 진행 중에 있습니다. 자세한 내용은 프로젝트
-          목록에 게시해놨습니다. 부족한 CS지식은 방통대 컴퓨터과학과 3학년으로
-          편입해 쌓고 있으며. 개발자로서 아직 배워야 할게 많고 부족한 점도
-          많기에 더 나은 developer가 되기 위해 쉬지 않고 develop하겠습니다. 긴
-          글 읽어주셔서 감사합니다.
+          목록에 게시해놨습니다. 추가적으로 부족한 CS지식은 방통대 컴퓨터과학과
+          3학년으로 편입해 쌓고 있으며. 개발자로서 아직 배워야 할게 많고 부족한
+          점도 많기에 더 나은 developer가 되기 위해 쉬지 않고 develop하겠습니다.
+          긴 글 읽어주셔서 감사합니다.
         </p>
         <div className="flex justify-center">
           <Link href="/projects">
