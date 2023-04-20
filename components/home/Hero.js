@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Animation from "./Animation";
+import Animation from "./animation";
 
 export default function Hero() {
   return (
@@ -13,15 +13,14 @@ export default function Hero() {
         </h1>
         <p className="mb-8 leading-relaxed">
           유저 친화적인 웹앱을 만들고자 하는 신입 프론트엔드 개발자
-          남우현입니다. 이 포트폴리오는 Next.js와 LottieFiles, Notion Api,
-          TailwindCSS를 활용하여 만들었으며. 근래에는 React를 심화적으로 다루고
-          있으며 방통대 컴퓨터과학과 3학년으로 편입해 전공 수업을 들으며 CS
-          지식을 쌓고 있습니다. 개발자로서의 제가 가진 무기로는 데이터 범람의
-          현시대에 정제된 정보를 찾아내 지식을 얻는 능력과 개발자의 길을 걷기
-          전에 수년간 영업지원, 바텐더로 일하며 길렀던 커뮤니케이션 능력이라고
-          생각합니다. 동료들과의 협업이란 서로가 끝없는 대화를 나누며 알아가고
-          나아가며 궁극적으로 결과물을 만들어내는 과정이라고 생각하기
-          때문입니다. 긴 글 읽어주셔서 감사합니다. 좋은 하루 보내세요.
+          남우현입니다. 이 포트폴리오는 React 프레임워크인 Next.js와
+          LottieFiles, Notion Api, TailwindCSS를 활용하여 만들었습니다. 근래에는
+          OpenAI API를 활용하여 사용자의 키워드에 맞춰 시를 생성해 주고 이미지를
+          가져오는 개인 프로젝트를 진행 중에 있습니다. 자세한 내용은 프로젝트
+          목록에 게시해놨습니다. 부족한 CS지식은 방통대 컴퓨터과학과 3학년으로
+          편입해 쌓고 있으며. 개발자로서 아직 배워야 할게 많고 부족한 점도
+          많기에 더 나은 developer가 되기 위해 쉬지 않고 develop하겠습니다. 긴
+          글 읽어주셔서 감사합니다.
         </p>
         <div className="flex justify-center">
           <Link href="/projects">
