@@ -25,7 +25,7 @@ export default function Footer() {
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <Link
               href="https://www.instagram.com/_weekend365/"
-              className="flex ml-3 text-gray-500"
+              className="flex justify-center items-center ml-3 text-gray-500"
             >
               Instagram
               <svg
