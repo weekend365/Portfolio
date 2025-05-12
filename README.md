@@ -2,5 +2,5 @@
 
 ```bash
 유저 친화적인 웹앱을 만들고자 하는 프론트엔드 개발자
-남우현입니다.
+남우현입니다. 이 포트폴리오는 Next.js와 LottieFiles, Notion Api, TailwindCSS를 활용하여 만들었습니다.
 ```
